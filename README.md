@@ -1,15 +1,16 @@
 ### Hi there 👋
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
-  <img src="https://img.shields.io/badge/androidstudio-20232a.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
-  <img src="https://img.shields.io/badge/slack-20232a.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
-</div>
-
-<br>
 <h3 align="center">📚 Studying 📚</h3>
 <h3 align="center"><img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+<br>
+
+  <h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/androidstudio-20232a.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/slack-20232a.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
+</div>
+<br>
 <!--
 **cow-98/cow-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
