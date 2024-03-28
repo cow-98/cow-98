@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/slack-20232a.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
 <br>
 <!--
 **cow-98/cow-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
