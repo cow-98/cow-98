@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?cow-98=anuraghazra&layout=compact)
 <!--
 **cow-98/cow-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
