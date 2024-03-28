@@ -1,5 +1,6 @@
 ### Hi there 👋
 <h3 align="center">📚 Studying 📚</h3>
+<img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
 <!--
 **cow-98/cow-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
