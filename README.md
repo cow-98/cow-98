@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  hello
+</div>
+
 <h3 align="center">📚 Studying 📚</h3>
 <h3 align="center"><img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
 <br>
