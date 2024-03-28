@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
   <img src="https://img.shields.io/badge/androidstudio-20232a.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
+  <img src="https://img.shields.io/badge/slack-20232a.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
 </div>
 
 <div align="center">
