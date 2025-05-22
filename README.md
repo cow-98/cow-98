@@ -1,6 +1,6 @@
 <h3 align="center">📚 Studying 📚</h3>
 <h3 align="center"><img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <br>
 
   <h3 align="center">🛠 Tools 🛠</h3>
@@ -13,7 +13,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/slack-FF880F.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
-  <img src="https://img.shields.io/badge/appium-EE376D?style=for-the-badge&logo=appium&logoColor=white">
+  <img src="https://img.shields.io/badge/appium-EE376D?style=for-the-badge&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  
 </div>
 <br>
 
