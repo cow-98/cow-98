@@ -1,5 +1,6 @@
 <h3 align="center">📚 Studying 📚</h3>
 <h3 align="center"><img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <h3 allign="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br>
 
   <h3 align="center">🛠 Tools 🛠</h3>
