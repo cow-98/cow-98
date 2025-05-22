@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/slack-FF880F.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
+  <img src="https://img.shields.io/badge/appium-EE376D?style=for-the-badge&logo=appium&logoColor=white">
 </div>
 <br>
 
